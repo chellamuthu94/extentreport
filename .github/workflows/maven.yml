@@ -50,7 +50,7 @@ jobs:
         # email body as text
         body: ${{ github.job }} job in workflow ${{ github.workflow }} of ${{ github.repository }} 
          is ${{ job.status }}.
-        to: chellamuthu@4blabs.com
+        to: syedimran@4blabs.com
         # from email name
         from: odcchella@gmail.com
         secure: true
